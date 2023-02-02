@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer
 ----------------------------
 
-I'm a Software Engineering Fellow at the Marcy Lab School. Over the course of a year, I have developed an understanding of the PERN Stack, while also furthering my mastery of Data Structures & Algorithms just a little more each day.
+I'm a current Software Engineering Fellow at Hack.Diversity. Over the course of a year, I have developed an understanding of the PERN Stack, while also furthering my mastery of Data Structures & Algorithms just a little more each day.
 
 * 🌍  I'm based in Brooklyn, NY
 * ✉️  You can contact me at [elijahagyemang9@gmail.com](mailto:elijahagyemang9@gmail.com)
