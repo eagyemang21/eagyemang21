@@ -4,13 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer
 ----------------------------
 
-I'm a current Software Engineering Fellow at Hack.Diversity. Over the course of a year, I have developed an understanding of the PERN Stack, while also furthering my mastery of Data Structures & Algorithms just a little more each day.
-
-* 🌍  I'm based in Brooklyn, NY
-* ✉️  You can contact me at [elijahagyemang9@gmail.com](mailto:elijahagyemang9@gmail.com)
-* 🧠  I'm learning Full-Stack Development with Python & Django.
+I'm a returning college student at CUNY Baruch College, where I'm currently majoring in Computer Science. I'm also minoring in theater, which was my first love as a child.
+* 🌍  I'm based in New York, NY.
+* ✉️  You can contact me at [elijah.agyemang.dev@gmail.com](mailto:elijah.agyemang.dev@gmail.com)
+* 🧠  I'm learning all things programming, finance, and acting.
 * 🤝  I'm open to collaborating on new projects.
-* ⚡  I like pineapple on my pizza...sometimes.
+* ⚡  I love a good Broadway show.
 
 ### Skills
 
